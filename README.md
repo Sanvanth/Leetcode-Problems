@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0130-surrounded-regions](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0221-maximal-square) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,5 +74,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
