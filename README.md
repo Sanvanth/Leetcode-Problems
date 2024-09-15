@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0018-4sum) |
 | [0130-surrounded-regions](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0221-maximal-square) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
