@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0137-single-number-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0221-maximal-square](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0221-maximal-square) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 ## Hash Table
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
