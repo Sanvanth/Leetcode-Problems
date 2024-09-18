@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0148-sort-list](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
