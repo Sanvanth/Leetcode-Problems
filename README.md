@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0056-merge-intervals) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0086-partition-list) |
