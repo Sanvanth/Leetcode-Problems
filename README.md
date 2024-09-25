@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
