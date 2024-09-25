@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0137-single-number-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 ## Binary Search Tree
