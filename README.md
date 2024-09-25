@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0078-subsets) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
