@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0221-maximal-square) |
 ## Bit Manipulation
