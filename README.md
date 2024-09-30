@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
