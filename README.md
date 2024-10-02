@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0164-maximum-gap](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0221-maximal-square](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0221-maximal-square) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0221-maximal-square) |
 ## Depth-First Search
 |  |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -263,8 +268,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
