@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
+| [2748-calculate-delayed-arrival-time](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2748-calculate-delayed-arrival-time) |
 ## Recursion
 |  |
 | ------- |
