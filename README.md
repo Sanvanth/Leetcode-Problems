@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0400-nth-digit](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [1806-count-of-matches-in-tournament](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2748-calculate-delayed-arrival-time) |
 ## Recursion
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [1806-count-of-matches-in-tournament](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 ## Merge Sort
 |  |
 | ------- |
