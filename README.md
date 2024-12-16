@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0056-merge-intervals) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0400-nth-digit](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0400-nth-digit) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
