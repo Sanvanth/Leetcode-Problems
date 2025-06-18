@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0400-nth-digit](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0400-nth-digit) |
