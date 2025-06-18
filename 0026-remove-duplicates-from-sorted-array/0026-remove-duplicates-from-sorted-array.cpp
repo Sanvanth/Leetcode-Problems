@@ -7,9 +7,15 @@ public:
             arr.insert(num);
         }
         auto val = arr.begin();
-        for(int i=0;i<arr.size();i++){
-            nums[i]=*val;
-            val++;
+        for(int i=0;i<nums.size();i++){
+            if(i>arr.size()){
+                nums[i]=0;
+            }
+            else{
+                nums[i]=*val;
+                val++;
+            }
+            
         }
         return arr.size();
     }
