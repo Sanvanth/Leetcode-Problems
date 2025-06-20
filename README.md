@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3183-find-the-k-or-of-an-array) |
 | [3188-find-champion-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3188-find-champion-i) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Linked List
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3183-find-the-k-or-of-an-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Combinatorics
 |  |
 | ------- |
