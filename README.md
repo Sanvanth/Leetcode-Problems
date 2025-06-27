@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
+| [1500-count-largest-group](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Linked List
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0400-nth-digit](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [1500-count-largest-group](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1806-count-of-matches-in-tournament](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2748-calculate-delayed-arrival-time) |
