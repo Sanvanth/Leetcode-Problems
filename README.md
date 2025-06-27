@@ -99,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-calculate-delayed-arrival-time](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2748-calculate-delayed-arrival-time) |
 | [3199-distribute-candies-among-children-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3199-distribute-candies-among-children-i) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3183-find-the-k-or-of-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Prefix Sum
 |  |
 | ------- |
