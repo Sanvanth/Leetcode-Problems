@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3183-find-the-k-or-of-an-array](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3183-find-the-k-or-of-an-array) |
 | [3188-find-champion-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3188-find-champion-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2748-calculate-delayed-arrival-time) |
 | [3199-distribute-candies-among-children-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3199-distribute-candies-among-children-i) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0221-maximal-square) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3199-distribute-candies-among-children-i) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Enumeration
 |  |
 | ------- |
