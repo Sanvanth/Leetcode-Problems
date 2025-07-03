@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0169-majority-element) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Linked List
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -367,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
