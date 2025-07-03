@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0221-maximal-square) |
 | [0414-third-maximum-number](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1968-maximum-building-height](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1968-maximum-building-height) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3183-find-the-k-or-of-an-array) |
 | [3188-find-champion-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3188-find-champion-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1500-count-largest-group](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1806-count-of-matches-in-tournament](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1968-maximum-building-height](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1968-maximum-building-height) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2748-calculate-delayed-arrival-time) |
 | [3199-distribute-candies-among-children-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3199-distribute-candies-among-children-i) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [1968-maximum-building-height](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1968-maximum-building-height) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 ## Stack
 |  |
