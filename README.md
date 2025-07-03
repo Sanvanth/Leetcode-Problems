@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0164-maximum-gap](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0221-maximal-square) |
 | [0414-third-maximum-number](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0414-third-maximum-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1500-count-largest-group](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Linked List
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 ## Stack
@@ -359,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3199-distribute-candies-among-children-i) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
