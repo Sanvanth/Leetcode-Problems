@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1968-maximum-building-height](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1968-maximum-building-height) |
+| [2411-spiral-matrix-iv](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3183-find-the-k-or-of-an-array) |
 | [3188-find-champion-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3188-find-champion-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0148-sort-list](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0148-sort-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2411-spiral-matrix-iv](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0221-maximal-square) |
+| [2411-spiral-matrix-iv](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [3188-find-champion-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3188-find-champion-i) |
 ## Bit Manipulation
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
+| [2411-spiral-matrix-iv](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 ## Merge Sort
 |  |
 | ------- |
