@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3183-find-the-k-or-of-an-array](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3183-find-the-k-or-of-an-array) |
 | [3188-find-champion-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3188-find-champion-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Hash Table
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [1968-maximum-building-height](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1968-maximum-building-height) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sanvanth/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
 | ------- |
