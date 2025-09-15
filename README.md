@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/Sanvanth/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Linked List
 |  |
 | ------- |
@@ -143,12 +144,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sanvanth/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Sanvanth/Leetcode-Problems/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Binary Search
 |  |
 | ------- |
